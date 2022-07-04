@@ -177,9 +177,6 @@
 			},
 			"BatchLocation": {
 				"type": "string"
-			},
-			"StorageAccountKey": {
-				"type": "string"
 			}
 		},
 		"variables": {
