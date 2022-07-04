@@ -28,7 +28,7 @@
 						"--key_vault_name",
 						"rle-pipeline-kv",
 						"--storage_account_key_secret_name",
-						"@pipeline().parameters.StorageAccountKey",
+						"AOI Data Storage Account v2",
 						"--linked_service_name",
 						"AOI Pipeline Key Vault",
 						"--aoi",
